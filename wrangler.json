@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "black-bush-7796",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "54da6dd6-dc14-4baa-8502-f6dac4cfa6cb",
+      "database_name": "holy-breeze-3ad1-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
